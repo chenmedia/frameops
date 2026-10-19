@@ -1,0 +1,20 @@
+{
+  "name": "frameops-radix-mockups",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-icons": "latest",
+    "@radix-ui/themes": "latest",
+    "@fontsource/barlow-condensed": "latest",
+    "@fontsource/ibm-plex-sans": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "vite": "latest"
+  }
+}
